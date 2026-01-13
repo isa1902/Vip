@@ -1,0 +1,6 @@
+python-telegram-bot>=21.0
+APScheduler==3.10.4
+Pillow
+python-dotenv==1.0.0
+pytz==2023.3
+imagehash==4.3.1
